@@ -29,4 +29,4 @@ when you open a database it will call the file named opendbtest.sh where you wil
    - select by cell -- will take the record from the user and take the column from the user and will print for him the cell chosen.
 1. exit -- will get the user out of the opendbtest.sh and go back to the Mainmenutest.sh prompt changes in opendbtest.sh is OP>
 
-[here you will find the demo video link of the project:] (https://drive.google.com/file/d/1koRLpjqDisJ-ZbBQcxjXk5OKr1aGFsSJ/view?usp=sharing) 
+here you will find the demo video link of the project: https://drive.google.com/file/d/1koRLpjqDisJ-ZbBQcxjXk5OKr1aGFsSJ/view?usp=sharing 
