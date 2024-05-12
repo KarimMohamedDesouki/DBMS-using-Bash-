@@ -3,7 +3,6 @@
 
 ### first you will run the Mainmenutest.sh file.
 
-![Mainmenutest sh-Menu](https://github.com/KarimMohamedDesouki/OS44/assets/153070580/c062fb9d-611d-40ab-9611-161ce46c8d58)
 
 this menu contains `Create Database` `Open Database` `List All Databases` `Delete Database` `Exit`.            
 1. Create Database -- create a new database.
@@ -13,7 +12,6 @@ this menu contains `Create Database` `Open Database` `List All Databases` `Delet
 1. Exit -- will get out of the Mainmenutest.sh file. (the prompt of the Mainmenutest.sh is MM>)
 
 
-![Opendbtest sh-Menu](https://github.com/KarimMohamedDesouki/OS44/assets/153070580/0fa8be2f-c1f1-455c-bbf3-fc01aca0b6bc)
 
 when you open a database it will call the file named opendbtest.sh where you will have menu `Create Table`  `Delete Table`  `Insert In Table`  `Update the Table`  `Delete Record from table`  `List All the Tables` `Select Table` `Exit`.
 1. create table -- will ask the user to enter the name of the table you want to create then it will say how many columns you want to add and will ask about the datatype of every field (int,str).   
